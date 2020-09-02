@@ -1,16 +1,15 @@
-### Hi there 👋
+![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=isaachi1&show_icons=true&theme=tokyonight)
 
-<!--
-**Isaachi1/Isaachi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
+  Hello, world!
+</h1>
 
-Here are some ideas to get you started:
+Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de ficar procurando coisas interessantes, veja esta lista com projetos relevantes e úteis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [Epic Software House](https://www.epicsoftwarehouse.com)
+- 💬 [Real Time Chat 1.0](https://github.com/Isaachi1/chat1.0)
+- 💬 [Real Time Chat 2.0 with VUE](https://github.com/Isaachi1/chat2.0)
+- 🖥️ [Simple PDV with C#](https://github.com/Isaachi1/GoldSystem)
+
+✉️ Quer um contato mais próximo comigo? [Me chama no WhatsApp!](+55 81 9 8910-2492)
