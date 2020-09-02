@@ -12,4 +12,4 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
 - 💬 [Real Time Chat 2.0 with VUE](https://github.com/Isaachi1/chat2.0)
 - 🖥️ [Simple PDV with C#](https://github.com/Isaachi1/GoldSystem)
 
-✉️ Quer um contato mais próximo comigo? [Me chama no WhatsApp!](+55 81 9 8910-2492)
+✉️ Quer um contato mais próximo comigo? [Me chama no WhatsApp!](http://api.whatsapp.com/send?1=pt_br&phone=+55 81 9 8910-2492)
