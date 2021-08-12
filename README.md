@@ -7,7 +7,7 @@
 
 Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de ficar procurando coisas interessantes, veja esta lista com projetos relevantes e úteis.
 
-- 💼 [Epic Software House](https://www.epicsoftwarehouse.com)
+- 💼 [Epic Software](https://www.epicsoftware.com.br)
 - 💬 [Real Time Chat 1.0](https://github.com/Isaachi1/chat1.0)
 - 💬 [Real Time Chat 2.0 with VUE](https://github.com/Isaachi1/chat2.0)
 - 🖥️ [Simple PDV with C#](https://github.com/Isaachi1/GoldSystem)
