@@ -18,7 +18,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
+      src="https://image.flaticon.com/icons/png/512/226/226269.png"
       alt="html5"
       width="40"
       height="40"
@@ -26,7 +26,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
+      src="https://image.flaticon.com/icons/png/512/732/732190.png"
       alt="css3"
       width="40"
       height="40"
@@ -37,7 +37,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png"
       alt="javascript"
       width="40"
       height="40"
@@ -45,7 +45,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
   </a>
   <a href="https://sass-lang.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
+      src="https://image.flaticon.com/icons/png/512/919/919831.png"
       alt="sass"
       width="40"
       height="40"
@@ -53,7 +53,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg"
+      src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png"
       alt="webpack"
       width="40"
       height="40"
@@ -61,7 +61,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
+      src="https://br.vuejs.org//images/logo.png"
       alt="vuejs"
       width="40"
       height="40"
@@ -69,7 +69,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
   </a>
   <a href="hhttps://pt-br.reactjs.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/react/react-original.svg"
+      src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png"
       alt="reactjs"
       width="40"
       height="40"
@@ -85,7 +85,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
       alt="typescript"
       width="40"
       height="40"
