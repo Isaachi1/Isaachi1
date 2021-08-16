@@ -37,7 +37,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
     target="_blank"
   >
     <img
-      src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png"
+      src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"
       alt="javascript"
       width="40"
       height="40"
