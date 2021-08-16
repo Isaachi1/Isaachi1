@@ -115,14 +115,6 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
       height="40"
     />
   </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img
-      src="https://flutterappdev.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-25-at-12.54.42-PM-860x500.png"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://dart.dev" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
