@@ -173,7 +173,7 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.kelvinsantiago.com.br/wp-content/uploads/2020/12/mongodb.jpg"
       alt="mongodb"
       width="40"
       height="40"
