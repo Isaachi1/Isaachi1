@@ -7,10 +7,11 @@
 
 Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de ficar procurando coisas interessantes, veja esta lista com projetos relevantes e úteis.
 
-- 💼 [Epic Software](https://www.epicsoftware.com.br)
+- 💼 [Isaac Tech Solutions LTDA](https://www.isaacsolutions.tech)
 - 💬 [Real Time Chat 1.0](https://github.com/Isaachi1/chat1.0)
 - 💬 [Real Time Chat 2.0 with VUE](https://github.com/Isaachi1/chat2.0)
 - 🖥️ [Simple PDV with C#](https://github.com/Isaachi1/GoldSystem)
+- 🖥️ [Stylus](https://learnxinyminutes.com/pt-br/stylus)
 
 ✉️ Quer um contato mais próximo comigo? [Me chama no WhatsApp!](http://api.whatsapp.com/send?1=pt_br&phone=+5581989102492)
 
