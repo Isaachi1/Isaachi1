@@ -1,191 +1,157 @@
-![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=isaachi1&show_icons=true&theme=tokyonight)
+<div align="center">
 
-<h1>
-  <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
-  Hello, world!
-</h1>
+# 👋 Olá! Eu sou Isaac Henrique
 
-Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de ficar procurando coisas interessantes, veja esta lista com projetos relevantes e úteis.
+### Full Stack Developer | Tech Entrepreneur | Open Source Enthusiast
 
-- 💼 [Isaac Tech Solutions LTDA](https://www.isaacsolutions.tech)
-- 💬 [Real Time Chat 1.0](https://github.com/Isaachi1/chat1.0)
-- 💬 [Real Time Chat 2.0 with VUE](https://github.com/Isaachi1/chat2.0)
-- 🖥️ [Simple PDV with C#](https://github.com/Isaachi1/GoldSystem)
-- 🖥️ [Stylus](https://learnxinyminutes.com/pt-br/stylus)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaachi1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/isaachi1)
 
-✉️ Quer um contato mais próximo comigo? [Me chama no WhatsApp!](http://api.whatsapp.com/send?1=pt_br&phone=+5581989102492)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-henrique)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_br&phone=+5581989102492)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@isatech.digital)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://image.flaticon.com/icons/png/512/226/226269.png"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://image.flaticon.com/icons/png/512/732/732190.png"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://image.flaticon.com/icons/png/512/919/919831.png"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img
-      src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://br.vuejs.org//images/logo.png"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="hhttps://pt-br.reactjs.org/" target="_blank">
-    <img
-      src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png"
-      alt="reactjs"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://reactnative.dev/" target="_blank">
-    <img
-      src="https://originapps.io/wp-content/uploads/2019/03/React-Native.png"
-      alt="react-native"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank">
-    <img
-      src="https://bestofjs.org/logos/vuetify.svg"
-      alt="vuetify"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img
-      src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWAkhjcueGkGZM1zLjvB7jj16wmCoHrM5OQ&usqp=CAU"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://materializecss.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-      alt="materialize"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://www.kelvinsantiago.com.br/wp-content/uploads/2020/12/mongodb.jpg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://godotengine.org/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png"
-      alt="godot engine"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência em construir soluções escaláveis e eficientes. Fundador de duas empresas de tecnologia, focado em criar produtos que impactam positivamente pessoas e negócios.
+
+- 🏢 CEO & Founder na **[Isaac Tech Solutions LTDA](https://www.isaacsolutions.tech)**
+- 🏗️ CEO & Founder na **[ARQTEK LTDA](https://www.arqtek.com.br)**
+- 💻 Especialista em desenvolvimento Web e Mobile
+- 🌱 Sempre aprendendo e explorando novas tecnologias
+- 📍 Localizado em Bezerros, Pernambuco - Brasil
+
+---
+
+## 💼 Empresas
+
+<table>
+<tr>
+<td width="50%">
+
+### Isaac Tech Solutions LTDA
+**Soluções tecnológicas customizadas**
+
+Desenvolvimento de sistemas, aplicações web e mobile, consultoria em tecnologia e transformação digital.
+
+🔗 [www.isaacsolutions.tech](https://www.isaacsolutions.tech)
+
+</td>
+<td width="50%">
+
+### ARQTEK LTDA
+**Inovação em arquitetura e tecnologia**
+
+Integração entre arquitetura e tecnologia, oferecendo soluções digitais para o setor de engenharia e construção.
+
+🔗 [www.arqtek.com.br](https://www.arqtek.com.br)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Projetos em Destaque
+
+### 💬 [Real Time Chat 2.0](https://github.com/Isaachi1/chat2.0)
+Sistema de chat em tempo real desenvolvido com Vue.js, oferecendo comunicação instantânea com interface moderna e responsiva.
+
+**Tech Stack:** Vue.js, WebSocket, Node.js
+
+---
+
+### 💬 [Real Time Chat 1.0](https://github.com/Isaachi1/chat1.0)
+Primeira versão do sistema de chat em tempo real, demonstrando evolução técnica e arquitetural.
+
+**Tech Stack:** JavaScript, WebSocket, Express
+
+---
+
+### 🖥️ [GoldSystem - PDV](https://github.com/Isaachi1/GoldSystem)
+Sistema de Ponto de Venda (PDV) simples e eficiente desenvolvido em C#, ideal para pequenos e médios negócios.
+
+**Tech Stack:** C#, .NET, Windows Forms
+
+---
+
+### 📚 [Stylus - Documentação PT-BR](https://learnxinyminutes.com/pt-br/stylus)
+Contribuição para a documentação em português do pré-processador CSS Stylus.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Materialize](https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materializecss&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaachi1&theme=tokyonight&hide_border=true&background=1a1b27)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaachi1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+
+</div>
+
+---
+
+## 📫 Vamos Conectar?
+
+Estou sempre aberto para discutir novos projetos, ideias criativas ou oportunidades de parceria. Não hesite em entrar em contato!
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_br&phone=+5581989653114)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@isatech.digital)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/isaac-henrique](https://www.linkedin.com/in/isaac-henrique-802a53131))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.isaacsolutions.tech)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Se você gostou dos meus projetos, deixe uma estrela!
+
+**"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia."**
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=isaachi1.isaachi1)
+
+</div>
